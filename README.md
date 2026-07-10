@@ -24,6 +24,26 @@ Common tasks related to GenerativeAI here include:
   * Among others...
 * Common data processing methodologies and pipelines.
 
+The following tools are explored in this project:
+* LlamaIndex
+* Qdrant
+* ChromaDB
+* PgVector
+* Neo4j
+* Weaviate
+* Unstructured
+* PydanticAI
+* Comet
+* LangChain
+* LangGraph
+* AutoGen
+* Amazon Bedrock
+* Arize AI
+* Phoenix by Arize
+* Nemo Agent Toolkit
+* Letta
+* LangMem
+
 ## Features
 
 * TODO
