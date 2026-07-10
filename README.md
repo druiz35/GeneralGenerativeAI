@@ -9,6 +9,21 @@ General GenerativeAI high-level utilities
 * Free software: MIT License
 * Documentation: https://GeneralGenerativeAI.readthedocs.io.
 
+## Description
+I made the following project as a compilation of a bunch of implementations from my studies in
+generative AI.
+The idea is to have a TUI that allows to run multiple pipelines and individual components
+in order to test my implementations.
+Common tasks related to GenerativeAI here include:
+* Creating RAG and Agentic AI systems.
+* Exploring and comparing multiple architectures for Generative AI solutions.
+* Provide implementations in case you want to know how to train your own LLM.
+  * Different models and architectures.
+  * Fine-tuning.
+  * Hyperparameter tuning.
+  * Among others...
+* Common data processing methodologies and pipelines.
+
 ## Features
 
 * TODO
